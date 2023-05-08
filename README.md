@@ -1,5 +1,6 @@
 # Jenga-Game
 This game is for test demo purposes
+
 1- Uses API to fetch stacks data
 
 2- Setup the stacks
